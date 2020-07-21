@@ -1,4 +1,4 @@
-# Test!
+# Test
 ## Markdown?
 
 啊这
